@@ -21,7 +21,6 @@
 
 ## 🚀 What Drives Me
 
-- **Chasing My Dreams** 🚀
 - **Becoming My Best Self** 📚
 - **Creating a Better Tomorrow** 🤝
 
@@ -31,8 +30,8 @@
 - **Collaborative Opportunities** 🌍
 - **Continuous Learning** 📚
 
-## 📫 Let's Connect
+<!-- ## 📫 Let's Connect-->
 
-Feel free to reach out:
+<!--Feel free to reach out:-->
 
-- **[LinkedIn]()**
+<!--- **[LinkedIn]()**-->
