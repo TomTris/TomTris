@@ -5,7 +5,7 @@
 ### Languages
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
 [![C++](https://img.shields.io/badge/C%2B%2B-F34B7D?logo=cplusplus&logoColor=white)](#)
-[![Python](https://img.shields.io/badge/Python-%23563D7C.svg?logo=bootstrap&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 ### Tools & Technologies
 
 #### OS 🖥️
