@@ -6,6 +6,7 @@
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
 [![C++](https://img.shields.io/badge/C%2B%2B-F34B7D?logo=cplusplus&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white)](#)
 ### Tools & Technologies
 
 #### OS 🖥️
@@ -30,8 +31,8 @@
 - **Collaborative Opportunities** 🌍
 - **Continuous Learning** 📚
 
-<!-- ## 📫 Let's Connect-->
+## 📫 Let's Connect
 
-<!--Feel free to reach out:-->
+Feel free to reach out:
 
-<!--- **[LinkedIn]()**-->
+- **[LinkedIn](https://www.linkedin.com/in/TomTris/)**
