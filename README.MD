@@ -7,6 +7,7 @@
 [![C++](https://img.shields.io/badge/C%2B%2B-F34B7D?logo=cplusplus&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](#)
 ### Tools & Technologies
 
 #### OS 🖥️
