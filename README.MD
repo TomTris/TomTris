@@ -98,3 +98,4 @@ Now, foundation is done. It's time to take flight.
 -  **Circle 3**: Net Practice: We learn about Networking and Subnet!
 -  **Circle 4**: Inception: Learn how to use docker, containers with docker compose!
 -  **Optional after Circle 5**: We have Piscine Python, our own Piscine again! (recommend to take it before start ft_transcendence)
+-  **Optional after Circle 5**: We have Python for Data Science (will be done later in the next month)
