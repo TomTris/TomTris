@@ -94,7 +94,7 @@ Now, foundation is done. It's time to take flight.
 - **Technologies**: Ruby, Django (Python), HTML/CSS (Bootstrap), JavaScript, Docker, etc.
 
 ### Other Courses
-- **Born2beroot**: First Administration inside a virtual Maschine!
-- **Net Practice**: We learn about Networking and Subnet!
-- **Docker**: Learn how to use docker, containers with docker compose!
-- **Python 0-4**: We have Piscine Python, our own Piscine again!
+**Circle 1**: Born2beroot: First Administration inside a virtual Maschine!
+**Circle 3**: Net Practice: We learn about Networking and Subnet!
+**Circle 4**: Inception: Learn how to use docker, containers with docker compose!
+**Optional after Circle 5**: We have Piscine Python, our own Piscine again! (recommend to take it before start ft_transcendence)
