@@ -44,56 +44,54 @@ Feel free to reach out:
 📂 Structure of My GitHub
 Here are some of the key projects that I have worked on:
 
-1.  C programming
+1. C Programming
 Purpose:
-Algorithmic Thinking: Students learn to approach problems methodically, breaking down tasks and optimizing solutions.
-Unix/Linux Systems: Mastering the command line, threads, file I/O, scripting, and system tools in a Unix-based environment is critical.
-Version Control: Using tools like Git to manage code and collaborate effectively.
-Peer Learning: 42 places a strong emphasis on learning from peers, working on projects together, and giving/receiving feedback.
 
+Algorithmic Thinking: Learn to approach problems methodically, breaking down tasks and optimizing solutions.
+Unix/Linux Systems: Master the command line, threads, file I/O, scripting, and system tools in a Unix-based environment.
+Version Control: Use tools like Git to manage code and collaborate effectively.
+Peer Learning: Emphasize learning from peers, working on projects together, and giving/receiving feedback.
 Projects:
+
 Circle 0: Libft
 Circle 1: ft_printf, get_next_line
 Circle 2: Push_swap, so_long, pipex
-Circle 3: Philosophers, Minishell !!
-Circle 4: Cub3D
-
+Circle 3: Philosophers, Minishell
+Circle 4: Cub3D && MiniRT
 So, alongside C programming, the early curriculum focuses on building a strong foundation in algorithms, system fundamentals, and collaboration skills.
 
-2. C++ Programming:
-Purpose: Learn some advance features
+2. C++ Programming
+Purpose: Learn some advanced features.
+
 In C++, you'll encounter several key concepts that build on the foundations of C. Here are some of the main topics and features you’ll learn:
 
-1. Object-Oriented Programming (OOP): Classes and Objects, Inheritance, Polymorphism, Encapsulation,
-2. Standard Template Library (STL): Containers, Iterators, Algorithms
-3. Memory Management Dynamic Memory Allocation, Smart Pointers
-4. Advanced Features: Templates, Exception Handling
-5. Operator Overloading
-
+Object-Oriented Programming (OOP): Classes and Objects, Inheritance, Polymorphism, Encapsulation
+Standard Template Library (STL): Containers, Iterators, Algorithms
+Memory Management: Dynamic Memory Allocation, Smart Pointers
+Advanced Features: Templates, Exception Handling
+Operator Overloading
 Projects:
+
 Circle 4: C01-C04
-Circle 5: C05-C09, Webserv!!
+Circle 5: C05-C09, Webserv
+3. Free and Flight
+Now, foundation is done. It's time to take flight.
 
-3. ft_transcendence
-Now, foundation is done. It's first time to flight.
-The purpose of transcendence is to elevate one's skills and understanding beyond the basics, enabling deeper mastery and greater success in both personal and professional realms.
+Purpose of Transcendence: To elevate one's skills and understanding beyond the basics, enabling deeper mastery and greater success in both personal and professional realms.
 
-It's time for:
-1. Deep Learning
-Transcendence encourages students to not just memorize code or concepts but to understand the underlying principles, fostering critical thinking and problem-solving abilities.
-2. Adaptability
-By transcending foundational knowledge, students become more adaptable and capable of tackling new technologies and challenges as they arise.
-3. Creativity
-This approach promotes creativity and innovation, encouraging students to think outside the box and develop unique solutions to complex problems.
-4. Collaboration and Peer Learning
-Transcendence often involves collaboration with peers, helping students learn from each other and develop strong teamwork skills, which are crucial in the tech industry.
-5. Personal Growth
-It emphasizes personal development, pushing students to improve not only their technical skills but also their soft skills, resilience, and ability to learn independently.
-6. Lifelong Learning
-Finally, transcendence instills a mindset of lifelong learning, preparing students for continuous growth in their careers and adapting to an ever-evolving technological landscape.
+Focus Areas:
 
-And as the start point, we develop our full-stack website!!!!
-Technologies: Ruby / Django (Python), HTML/CSS (Bootstrap toolkit), Javascript, Docker, ... etc. Now, just little Litmit.
+Deep Learning: Understand the underlying principles, fostering critical thinking and problem-solving abilities.
+Adaptability: Become more adaptable and capable of tackling new technologies and challenges.
+Creativity: Promote innovation, encouraging unique solutions to complex problems.
+Collaboration and Peer Learning: Learn from peers and develop strong teamwork skills.
+Personal Growth: Improve technical skills, soft skills, resilience, and independent learning.
+Lifelong Learning: Instill a mindset of continuous growth and adaptation to the evolving technological landscape.
+Projects: Developing a full-stack website!
 
-Other Course:
-Python0-4: We have Piscine Python again!
+Technologies: Ruby, Django (Python), HTML/CSS (Bootstrap), JavaScript, Docker, etc.
+Projects:
+
+Circle 6: ft_Transcendence
+Other Courses
+Python 0-4: We have Piscine Python again!
