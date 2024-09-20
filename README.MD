@@ -57,7 +57,7 @@ Circle 0: Libft
 Circle 1: ft_printf, get_next_line
 Circle 2: Push_swap, so_long, pipex
 Circle 3: Philosophers, Minishell
-Circle 4: Cub3D && MiniRT
+Circle 4: Cub3D
 So, alongside C programming, the early curriculum focuses on building a strong foundation in algorithms, system fundamentals, and collaboration skills.
 
 2. C++ Programming
@@ -74,7 +74,7 @@ Projects:
 
 Circle 4: C01-C04
 Circle 5: C05-C09, Webserv
-3. Free and Flight
+3. ft_transcendence
 Now, foundation is done. It's time to take flight.
 
 Purpose of Transcendence: To elevate one's skills and understanding beyond the basics, enabling deeper mastery and greater success in both personal and professional realms.
@@ -90,8 +90,5 @@ Lifelong Learning: Instill a mindset of continuous growth and adaptation to the 
 Projects: Developing a full-stack website!
 
 Technologies: Ruby, Django (Python), HTML/CSS (Bootstrap), JavaScript, Docker, etc.
-Projects:
-
-Circle 6: ft_Transcendence
 Other Courses
 Python 0-4: We have Piscine Python again!
