@@ -41,54 +41,60 @@ Feel free to reach out:
 
 - **[LinkedIn](https://www.linkedin.com/in/TomTris/)**
 
-📂 Structure of My GitHub
+## 📂 Structure of My GitHub
+
 Here are some of the key projects that I have worked on:
 
-1. C Programming
-Purpose:
+### 1. C Programming
+**Purpose:**
+- **Algorithmic Thinking**: Learn to approach problems methodically, breaking down tasks and optimizing solutions.
+- **Unix/Linux Systems**: Master the command line, threads, file I/O, scripting, and system tools in a Unix-based environment.
+- **Version Control**: Use tools like Git to manage code and collaborate effectively.
+- **Peer Learning**: Emphasize learning from peers, working on projects together, and giving/receiving feedback.
 
-Algorithmic Thinking: Learn to approach problems methodically, breaking down tasks and optimizing solutions.
-Unix/Linux Systems: Master the command line, threads, file I/O, scripting, and system tools in a Unix-based environment.
-Version Control: Use tools like Git to manage code and collaborate effectively.
-Peer Learning: Emphasize learning from peers, working on projects together, and giving/receiving feedback.
-Projects:
+**Projects:**
+- **Circle 0**: Libft
+- **Circle 1**: ft_printf, get_next_line
+- **Circle 2**: Push_swap, so_long, pipex
+- **Circle 3**: Philosophers, Minishell
+- **Circle 4**: Cub3D
 
-Circle 0: Libft
-Circle 1: ft_printf, get_next_line
-Circle 2: Push_swap, so_long, pipex
-Circle 3: Philosophers, Minishell
-Circle 4: Cub3D
 So, alongside C programming, the early curriculum focuses on building a strong foundation in algorithms, system fundamentals, and collaboration skills.
 
-2. C++ Programming
-Purpose: Learn some advanced features.
+### 2. C++ Programming
+**Purpose**: Learn some advanced features.
 
 In C++, you'll encounter several key concepts that build on the foundations of C. Here are some of the main topics and features you’ll learn:
+1. **Object-Oriented Programming (OOP)**: Classes and Objects, Inheritance, Polymorphism, Encapsulation
+2. **Standard Template Library (STL)**: Containers, Iterators, Algorithms
+3. **Memory Management**: Dynamic Memory Allocation, Smart Pointers
+4. **Advanced Features**: Templates, Exception Handling
+5. **Operator Overloading**
 
-Object-Oriented Programming (OOP): Classes and Objects, Inheritance, Polymorphism, Encapsulation
-Standard Template Library (STL): Containers, Iterators, Algorithms
-Memory Management: Dynamic Memory Allocation, Smart Pointers
-Advanced Features: Templates, Exception Handling
-Operator Overloading
-Projects:
+**Projects:**
+- **Circle 4**: C01-C04
+- **Circle 5**: C05-C09, Webserv
 
-Circle 4: C01-C04
-Circle 5: C05-C09, Webserv
-3. ft_transcendence
+### 3. ft_transcendence
 Now, foundation is done. It's time to take flight.
 
-Purpose of Transcendence: To elevate one's skills and understanding beyond the basics, enabling deeper mastery and greater success in both personal and professional realms.
+**Purpose of Transcendence**: To elevate one's skills and understanding beyond the basics, enabling deeper mastery and greater success in both personal and professional realms.
 
-Focus Areas:
+**Focus Areas:**
+1. **Deep Learning**: Understand the underlying principles, fostering critical thinking and problem-solving abilities.
+2. **Adaptability**: Become more adaptable and capable of tackling new technologies and challenges.
+3. **Creativity**: Promote innovation, encouraging unique solutions to complex problems.
+4. **Collaboration and Peer Learning**: Learn from peers and develop strong teamwork skills.
+5. **Personal Growth**: Improve technical skills, soft skills, resilience, and independent learning.
+6. **Lifelong Learning**: Instill a mindset of continuous growth and adaptation to the evolving technological landscape.
 
-Deep Learning: Understand the underlying principles, fostering critical thinking and problem-solving abilities.
-Adaptability: Become more adaptable and capable of tackling new technologies and challenges.
-Creativity: Promote innovation, encouraging unique solutions to complex problems.
-Collaboration and Peer Learning: Learn from peers and develop strong teamwork skills.
-Personal Growth: Improve technical skills, soft skills, resilience, and independent learning.
-Lifelong Learning: Instill a mindset of continuous growth and adaptation to the evolving technological landscape.
-Projects: Developing a full-stack website!
+**Projects**: Developing a full-stack website!
+- **Circle 6**: C01-C04
 
-Technologies: Ruby, Django (Python), HTML/CSS (Bootstrap), JavaScript, Docker, etc.
-Other Courses
-Python 0-4: We have Piscine Python again!
+- **Technologies**: Ruby, Django (Python), HTML/CSS (Bootstrap), JavaScript, Docker, etc.
+
+### Other Courses
+- **Born2beroot**: First Administration inside a virtual Maschine!
+- **Net Practice**: We learn about Networking and Subnet!
+- **Docker**: Learn how to use docker, containers with docker compose!
+- **Python 0-4**: We have Piscine Python, our own Piscine again!
