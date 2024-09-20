@@ -72,8 +72,8 @@ In C++, you'll encounter several key concepts that build on the foundations of C
 5. **Operator Overloading**
 
 **Projects:**
-- **Circle 4**: C01-C04
-- **Circle 5**: C05-C09, Webserv
+- **Circle 4**: CPP00, CPP01, CPP02, CPP03, CPP04
+- **Circle 5**: CPP05, CPP06, CPP07, CPP08, CPP09, Webserv
 
 ### 3. ft_transcendence
 Now, foundation is done. It's time to take flight.
@@ -89,7 +89,7 @@ Now, foundation is done. It's time to take flight.
 6. **Lifelong Learning**: Instill a mindset of continuous growth and adaptation to the evolving technological landscape.
 
 **Projects**: Developing a full-stack website!
-- **Circle 6**: C01-C04
+- **Circle 6**: ft_transcendence
 
 - **Technologies**: Ruby, Django (Python), HTML/CSS (Bootstrap), JavaScript, Docker, etc.
 
@@ -99,3 +99,6 @@ Now, foundation is done. It's time to take flight.
 -  **Circle 4**: Inception: Learn how to use docker, containers with docker compose!
 -  **Optional after Circle 5**: We have Piscine Python, our own Piscine again! (recommend to take it before start ft_transcendence)
 -  **Optional after Circle 5**: We have Python for Data Science (will be done later in the next month)
+### Mastery, branch:
+- **Algo & AI & Data**: dslr (On going)
+- **Else**: Not yet
