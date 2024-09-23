@@ -57,7 +57,7 @@ Here are some of the key projects that I have worked on:
 - **Circle 1**: ft_printf, get_next_line
 - **Circle 2**: Push_swap, so_long, pipex
 - **Circle 3**: Philosophers, Minishell
-- **Circle 4**: Cub3D
+- **Circle 4**: Cub3D, MiniRT(On going)
 
 So, alongside C programming, the early curriculum focuses on building a strong foundation in algorithms, system fundamentals, and collaboration skills.
 
@@ -75,7 +75,7 @@ In C++, you'll encounter several key concepts that build on the foundations of C
 - **Circle 4**: CPP00, CPP01, CPP02, CPP03, CPP04
 - **Circle 5**: CPP05, CPP06, CPP07, CPP08, CPP09, Webserv
 
-### 3. ft_transcendence
+### 3. ft_transcendence - last project in Core Curriculum at 42.
 Now, foundation is done. It's time to take flight.
 
 **Purpose of Transcendence**: To elevate one's skills and understanding beyond the basics, enabling deeper mastery and greater success in both personal and professional realms.
@@ -91,13 +91,13 @@ Now, foundation is done. It's time to take flight.
 **Projects**: Developing a full-stack website!
 - **Circle 6**: ft_transcendence
 
-- **Technologies**: Ruby, Django (Python), HTML/CSS (Bootstrap), JavaScript, Docker, etc.
+- **Technologies**: **Django (Python), HTML/CSS, JavaScript, Docker,** etc.
 
 ### Other Courses
 -  **Circle 1**: Born2beroot: First Administration inside a virtual Maschine!
--  **Circle 3**: Net Practice: We learn about Networking and Subnet!
--  **Circle 4**: Inception: Learn how to use docker, containers with docker compose!
--  **Optional after Circle 5**: We have Piscine Python, our own Piscine again! (recommend to take it before start ft_transcendence)
+-  **Circle 3**: Net Practice: We learn about **Networking** and Subnet!
+-  **Circle 4**: Inception: Learn how to use **docker, containers with docker compose!**
+-  **Optional after Circle 5**: We have **Piscine Python**, our own Piscine again! (recommend to take it before start ft_transcendence)
 ### Mastery, branch:
-- **Algo & AI & Data**: dslr (On going), Python for Data Science (will be done later in the next month)
+- **Algo & AI & Data**: dslr (On going), **Python** for Data Science (will be done later in the next month)
 - **Else**: Not yet
