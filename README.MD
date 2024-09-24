@@ -1,4 +1,4 @@
-# Hi there, I'm Quoc Tri Do (Tom)👋
+# Hi there, I'm Tom (Quoc Tri Do)👋
 
 ## 🛠️ Skills
 
@@ -34,6 +34,10 @@
 - **New Challenges** 💪
 - **Collaborative Opportunities** 🌍
 - **Continuous Learning** 📚
+- And:
+### 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
+### 🚀🚀 **AN INTERNSHIP** 🚀🚀🚀
+### 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
 
 ## 📫 Let's Connect
 
@@ -42,41 +46,29 @@ Feel free to reach out:
 - **[LinkedIn](https://www.linkedin.com/in/TomTris/)**
 
 ## 📂 Structure of My GitHub
+You can click on the project and open en.subject.pdf to see the subject. If it's a medium to large project, there will be more descriptions provided.
 
-Here are some of the key projects that I have worked on:
+### 4. Mastery:
+- Step 1: **Algo & AI & Data**:
+   - Data Visualization: [dslr](https://github.com/TomTris/dslr) (Ongoing)
+   - Python for Data Science: [Piscine_Data_Science](https://github.com/TomTris/Piscine_Data_Science) (planned for next month)
+      - **Language**: **Python**
+- Step 2: **Web & Mobile** (Haven't started yet):
+   - All mobile's basic: [mobile](https://github.com/TomTris/Piscine_Mobile)
+   - Mobile development and SDK: [ft_hangouts](https://github.com/TomTris/ft_hangouts)
+   - Mobile development and API: [swifty-companion](https://github.com/TomTris/swifty-companion)
+      - **Languages**: **Java**, **Flutter**(Dart), **SDK**
+- Step 3: **Encryption and Security (Cryptography & Math)** (Haven't started yet):
+   - MD5 Hashing Algorithm: [ft_ssl_md5](https://github.com/TomTris/ft_ssl_md5)
+   - BASE64, DES-ECB and DES-CBC: [ft_ssl_des](https://github.com/TomTris/ft_ssl_des)
+   - prime number to private RSA keys: [ft_ssl_rsa](https://github.com/TomTris/ft_ssl_rsa)
+      - **Language**: **C**
+- **Else**: Afterwards!
 
-### 1. C Programming
-**Purpose:**
-- **Algorithmic Thinking**: Learn to approach problems methodically, breaking down tasks and optimizing solutions.
-- **Unix/Linux Systems**: Master the command line, threads, file I/O, scripting, and system tools in a Unix-based environment.
-- **Version Control**: Use tools like Git to manage code and collaborate effectively.
-- **Peer Learning**: Emphasize learning from peers, working on projects together, and giving/receiving feedback.
-
-**Projects:**
-- **Circle 0**: Libft
-- **Circle 1**: ft_printf, get_next_line
-- **Circle 2**: Push_swap, so_long, pipex
-- **Circle 3**: Philosophers, Minishell
-- **Circle 4**: Cub3D, MiniRT(On going)
-
-So, alongside C programming, the early curriculum focuses on building a strong foundation in algorithms, system fundamentals, and collaboration skills.
-
-### 2. C++ Programming
-**Purpose**: Learn some advanced features.
-
-In C++, you'll encounter several key concepts that build on the foundations of C. Here are some of the main topics and features you’ll learn:
-1. **Object-Oriented Programming (OOP)**: Classes and Objects, Inheritance, Polymorphism, Encapsulation
-2. **Standard Template Library (STL)**: Containers, Iterators, Algorithms
-3. **Memory Management**: Dynamic Memory Allocation, Smart Pointers
-4. **Advanced Features**: Templates, Exception Handling
-5. **Operator Overloading**
-
-**Projects:**
-- **Circle 4**: CPP00, CPP01, CPP02, CPP03, CPP04
-- **Circle 5**: CPP05, CPP06, CPP07, CPP08, CPP09, Webserv
-
-### 3. ft_transcendence - last project in Core Curriculum at 42.
+### 3.5. A **PingPong game** in a **Fullstack Web Application**: [ft_transcendence](https://github.com/TomTris/42-ft_transcendence)
+**Description:** Last project in Core Curriculum at 42, the most "Real-life project" to be ready for real world challenge.
 Now, foundation is done. It's time to take flight.
+Project is a PingPong game.
 
 **Purpose of Transcendence**: To elevate one's skills and understanding beyond the basics, enabling deeper mastery and greater success in both personal and professional realms.
 
@@ -89,15 +81,92 @@ Now, foundation is done. It's time to take flight.
 6. **Lifelong Learning**: Instill a mindset of continuous growth and adaptation to the evolving technological landscape.
 
 **Projects**: Developing a full-stack website!
-- **Circle 6**: ft_transcendence
+- **Circle 6**:
+   - A FullStack Web Application-Project:[42-ft_transcendence](https://github.com/TomTris/42-ft_transcendence)
 
-- **Technologies**: **Django (Python), HTML/CSS, JavaScript, Docker,** etc.
+- **Technologies**:
+   - **Backend: Django (Python)**
+   - **Frontend: HTML/CSS, JavaScript**
+   - **Infrastructure: Docker**
+   - **Database: PostgreSQL**
+   - **Other: ModSecurity && nginx && OWASP, Vault, Three.js/WebGL, redis**
 
-### Other Courses
--  **Circle 1**: Born2beroot: First Administration inside a virtual Maschine!
--  **Circle 3**: Net Practice: We learn about **Networking** and Subnet!
--  **Circle 4**: Inception: Learn how to use **docker, containers with docker compose!**
--  **Optional after Circle 5**: We have **Piscine Python**, our own Piscine again! (recommend to take it before start ft_transcendence)
-### Mastery, branch:
-- **Algo & AI & Data**: dslr (On going), **Python** for Data Science (will be done later in the next month)
-- **Else**: Not yet
+### 3.1: [Optional] Python Programming
+-  Optional: **Python for Data Science** (recommend to take it before start ft_transcendence)
+   - [42-Python-0-Starting](https://github.com/TomTris/42-Python-0-Starting)
+   - [42-Python-1-Array](https://github.com/TomTris/42-Python-1-Array)
+   - [42-Python-2-Datatable](https://github.com/TomTris/42-Python-2-Datatable)
+   - [42-Python-3-OOP](https://github.com/TomTris/42-Python-3-OOP)
+   - [42-Python-4-Dod](https://github.com/TomTris/42-Python-4-Dod)
+      - **Language: Python**
+
+### 3: Other Projects in Core curriculum
+- **Docker, containers with docker-compose!**: [42-Inception](https://github.com/TomTris/42-Inception) (Circle 4)
+   - **Technologies: Docker**
+- **Networking** and **Subnetting**!: [42-NetPractice](https://github.com/TomTris/42-NetPractice) (Circle 3)
+   - **Technologies: Brain!!**
+- First **Administration knowledge** inside a **Virtual Machine**!: [42-Born2beroot](https://github.com/TomTris/42-Born2beroot) (Circle 1)
+   - **Technologies: Virtual Machine**
+
+### 2. C++ Programming
+**Purpose**: Learn some advanced features.
+
+In C++, we encounter several key concepts that build on the foundations of C. Here are some of the main topics and features we'll learn:
+1. **Object-Oriented Programming (OOP)**: Classes and Objects, Inheritance, Polymorphism, Encapsulation
+2. **Standard Template Library (STL)**: Containers, Iterators, Algorithms
+3. **Memory Management**: Dynamic Memory Allocation, Smart Pointers
+4. **Advanced Features**: Templates, Exception Handling
+5. **Operator Overloading**
+
+**Projects:**
+   - Our own Server in C++ following HTTP/1.1: [42-Webserv](https://github.com/TomTris/42-Webserv) (Circle 5)
+   - Learning Projects: [42-CPP05](https://github.com/TomTris/42-CPP05), [42-CPP06](https://github.com/TomTris/42-CPP06), [42-CPP07](https://github.com/TomTris/42-CPP07), [42-CPP08](https://github.com/TomTris/42-CPP08), [42-CPP09](https://github.com/TomTris/42-CPP09) (Circle 5)
+   - Learning Projects: [42-CPP00](https://github.com/TomTris/42-CPP00), [42-CPP01](https://github.com/TomTris/42-CPP01), [42-CPP02](https://github.com/TomTris/42-CPP02), [42-CPP03](https://github.com/TomTris/42-CPP03), [42-CPP04](https://github.com/TomTris/42-CPP04) (Circle 4)
+
+
+### 1. C Programming
+**Purpose:**
+- **Algorithmic Thinking**: Learn to approach problems methodically, breaking down tasks and optimizing solutions: [42-Minishell](https://github.com/TomTris/42-Minishell), [42-MiniRT](https://github.com/TomTris/42-MiniRT), [42-Push_swap](https://github.com/TomTris/42-Push_swap), etc.
+- **Unix/Linux Systems**: Master the command line, threads, file I/O, scripting, and system tools in a Unix-based environment.
+- **Version Control**: Use tools like **Git** to manage code and collaborate effectively.
+- **Peer Learning**: Emphasize learning from peers, working on projects together, and giving/receiving feedback.
+- **BASH**: Learning by recreating Bash: Bash [42-Minishell](https://github.com/TomTris/42-Minishell)
+- **Algorithm to graphic**: [42-MiniRT](https://github.com/TomTris/42-MiniRT) (On Going), [42-Cub3D](https://github.com/TomTris/42-Cub3D), [42-so_long](https://github.com/TomTris/42-so_long)
+- **Other basic concepts**: multiple Threads [42-Philosophers](https://github.com/TomTris/42-Philosophers)
+
+**Projects:**
+   - Learn Bash by recreating Bash: [42-Minishell](https://github.com/TomTris/42-Minishell) (Circle 3)
+   - Graphic:
+      - Game 2.5D: [42-Cub3D](https://github.com/TomTris/42-Cub3D) (Circle 4)
+      - Graphic 3D: [42-MiniRT](https://github.com/TomTris/42-MiniRT) (On Going) (Circle 4)
+      - Game 2D: [42-so_long](https://github.com/TomTris/42-so_long) (Circle 2)
+
+   - Threads: [42-Philosophers](https://github.com/TomTris/42-Philosophers) (Circle 3)
+   - First Algorithm Project: [42-Push_swap](https://github.com/TomTris/42-Push_swap) (Circle 2)
+   - Other learning projects:
+      - Pipe in Bash: [42-pipex](https://github.com/TomTris/42-pipex) (Circle 2)
+      - [42-ft_printf](https://github.com/TomTris/42-Printf) (Circle 1)
+      - [42-get_next_line](https://github.com/TomTris/42-get_next_line) (Circle 1)
+      - Our own Library: [42-Libft](https://github.com/TomTris/42-Libft) (Circle 0)
+
+So, alongside C programming, the early curriculum focuses on building a strong foundation in algorithms, system fundamentals, and collaboration skills.
+
+## 0. Piscine:
+**Purpose**: Test the ability to cooperate with others and assess logical thinking based on fundamental programming and algorithmic concepts.
+- **Technologies**:
+   - Language: C
+   - Console
+   - Shell
+   - Git
+   - Variable type: int, char, pointer, (struct)
+   - String manipulation
+   - Passing arguments
+   - Recursion and iteration
+   - MacOS
+   - Slack.
+   - Visual Studio Code
+
+And following is a recursion project in our Piscine - A 4-week-entrance exam!
+   - [CPP05 Recursion](https://github.com/TomTris/C-Piscine-Recursion)
+
+## Now, my IT Life starts!
