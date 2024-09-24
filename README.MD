@@ -50,7 +50,7 @@ You can click on the project and open en.subject.pdf to see the subject. If it's
 
 ### 4. Mastery:
 - Step 1: **Algo & AI & Data**:
-   - Data Visualization: [dslr](https://github.com/TomTris/dslr) (Ongoing)
+   - Data Visualization: [dslr - Datascience X Logistic Regression](https://github.com/TomTris/dslr) (Ongoing)
    - Python for Data Science: [Piscine_Data_Science](https://github.com/TomTris/Piscine_Data_Science) (planned for next month)
       - **Language**: **Python**
 - Step 2: **Web & Mobile** (Haven't started yet):
