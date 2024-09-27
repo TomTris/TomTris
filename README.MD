@@ -55,9 +55,11 @@ You can click on the project and open en.subject.pdf to see the subject. If it's
       - **Language**: **Python**
 - Step 2: **Web & Mobile** (Haven't started yet):
    - All mobile's basic: [mobile](https://github.com/TomTris/Piscine_Mobile)
+      - **Languages**: **Flutter**(Dart)
    - Mobile development and SDK: [ft_hangouts](https://github.com/TomTris/ft_hangouts)
+      - **Languages**: **SDK** + ??
    - Mobile development and API: [swifty-companion](https://github.com/TomTris/swifty-companion)
-      - **Languages**: **Java**, **Flutter**(Dart), **SDK**
+      - **Languages**: **Java**
 - Step 3: **Encryption and Security (Cryptography & Math)** (Haven't started yet):
    - MD5 Hashing Algorithm: [ft_ssl_md5](https://github.com/TomTris/ft_ssl_md5)
    - BASE64, DES-ECB and DES-CBC: [ft_ssl_des](https://github.com/TomTris/ft_ssl_des)
