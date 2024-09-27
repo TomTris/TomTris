@@ -51,6 +51,7 @@ You can click on the project and open en.subject.pdf to see the subject. If it's
 ### 4. Mastery:
 - Step 1: **Algo & AI & Data**:
    - Data Visualization: [dslr - Datascience X Logistic Regression](https://github.com/TomTris/dslr)
+      - **Language**: **Python**
    - Python for Data Science: [Piscine_Data_Science](https://github.com/TomTris/Piscine_Data_Science) (will start at 25.09)
       - **Language**: **Python**
 - Step 2: **Web & Mobile** (Haven't started yet):
@@ -59,7 +60,7 @@ You can click on the project and open en.subject.pdf to see the subject. If it's
    - Mobile development and SDK: [ft_hangouts](https://github.com/TomTris/ft_hangouts)
       - **Languages/Tool**: **SDK** + **??**
    - Mobile development and API: [swifty-companion](https://github.com/TomTris/swifty-companion)
-      - **Languages**: **Java**
+      - **Languages**: **Java** (Flutter/Swift/Kotlin/Java)
 - Step 3: **Encryption and Security (Cryptography & Math)** (Haven't started yet):
    - MD5 Hashing Algorithm: [ft_ssl_md5](https://github.com/TomTris/ft_ssl_md5)
    - BASE64, DES-ECB and DES-CBC: [ft_ssl_des](https://github.com/TomTris/ft_ssl_des)
