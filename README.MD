@@ -57,7 +57,7 @@ You can click on the project and open en.subject.pdf to see the subject. If it's
    - All mobile's basic: [mobile](https://github.com/TomTris/Piscine_Mobile)
       - **Languages**: **Flutter**(Dart)
    - Mobile development and SDK: [ft_hangouts](https://github.com/TomTris/ft_hangouts)
-      - **Languages**: **SDK** + ??
+      - **Languages/Tool**: **SDK** + **??**
    - Mobile development and API: [swifty-companion](https://github.com/TomTris/swifty-companion)
       - **Languages**: **Java**
 - Step 3: **Encryption and Security (Cryptography & Math)** (Haven't started yet):
