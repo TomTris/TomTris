@@ -52,7 +52,7 @@ You can click on the project and open en.subject.pdf to see the subject. If it's
 - Step 1: **Algo & AI & Data**:
    - Data Visualization: [dslr - Datascience X Logistic Regression](https://github.com/TomTris/dslr)
       - **Language**: **Python**
-   - Python for Data Science: [Piscine_Data_Science](https://github.com/TomTris/Piscine_Data_Science) (will start at 25.09)
+   - Python for Data Science: [Piscine_Data_Science](https://github.com/TomTris/Piscine_Data_Science) (Haven't started yet)
       - **Language**: **Python**
 - Step 2: **Web & Mobile** (Haven't started yet):
    - All mobile's basic: [mobile](https://github.com/TomTris/Piscine_Mobile)
@@ -134,14 +134,14 @@ In C++, we encounter several key concepts that build on the foundations of C. He
 - **Version Control**: Use tools like **Git** to manage code and collaborate effectively.
 - **Peer Learning**: Emphasize learning from peers, working on projects together, and giving/receiving feedback.
 - **BASH**: Learning by recreating Bash: Bash [42-Minishell](https://github.com/TomTris/42-Minishell)
-- **Algorithm to graphic**: [42-MiniRT](https://github.com/TomTris/42-MiniRT) (On Going), [42-Cub3D](https://github.com/TomTris/42-Cub3D), [42-so_long](https://github.com/TomTris/42-so_long)
+- **Algorithm to graphic**: [42-MiniRT](https://github.com/TomTris/42-MiniRT), [42-Cub3D](https://github.com/TomTris/42-Cub3D), [42-so_long](https://github.com/TomTris/42-so_long)
 - **Other basic concepts**: multiple Threads [42-Philosophers](https://github.com/TomTris/42-Philosophers)
 
 **Projects:**
    - Learn Bash by recreating Bash: [42-Minishell](https://github.com/TomTris/42-Minishell) (Circle 3)
    - Graphic:
       - Game 2.5D: [42-Cub3D](https://github.com/TomTris/42-Cub3D) (Circle 4)
-      - Graphic 3D: [42-MiniRT](https://github.com/TomTris/42-MiniRT) (On Going) (Circle 4)
+      - Graphic 3D: [42-MiniRT](https://github.com/TomTris/42-MiniRT) (Circle 4)
       - Game 2D: [42-so_long](https://github.com/TomTris/42-so_long) (Circle 2)
 
    - Threads: [42-Philosophers](https://github.com/TomTris/42-Philosophers) (Circle 3)
