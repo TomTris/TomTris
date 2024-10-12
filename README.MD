@@ -52,21 +52,6 @@ You can click on the project and open en.subject.pdf to see the subject. If it's
 - Step 1: **Algo & AI & Data**:
    - Data Visualization: [dslr - Datascience X Logistic Regression](https://github.com/TomTris/dslr)
       - **Language**: **Python**
-   - Python for Data Science: [Piscine_Data_Science](https://github.com/TomTris/Piscine_Data_Science) (Haven't started yet)
-      - **Language**: **Python**
-- Step 2: **Web & Mobile** (Haven't started yet):
-   - All mobile's basic: [mobile](https://github.com/TomTris/Piscine_Mobile)
-      - **Languages**: **Flutter**(Dart)
-   - Mobile development and SDK: [ft_hangouts](https://github.com/TomTris/ft_hangouts)
-      - **Languages/Tool**: **SDK** + **??**
-   - Mobile development and API: [swifty-companion](https://github.com/TomTris/swifty-companion)
-      - **Languages**: **Java** (Flutter/Swift/Kotlin/Java)
-- Step 3: **Encryption and Security (Cryptography & Math)** (Haven't started yet):
-   - MD5 Hashing Algorithm: [ft_ssl_md5](https://github.com/TomTris/ft_ssl_md5)
-   - BASE64, DES-ECB and DES-CBC: [ft_ssl_des](https://github.com/TomTris/ft_ssl_des)
-   - prime number to private RSA keys: [ft_ssl_rsa](https://github.com/TomTris/ft_ssl_rsa)
-      - **Language**: **C**
-- **Else**: Afterwards!
 
 ### 3.5. A **PingPong game** in a **Fullstack Web Application**: [ft_transcendence](https://github.com/TomTris/42-ft_transcendence)
 **Description:** Last project in Core Curriculum at 42, the most "Real-life project" to be ready for real world challenge.
@@ -173,3 +158,23 @@ And following is a recursion project in our Piscine - A 4-week-entrance exam!
    - [CPP05 Recursion](https://github.com/TomTris/C-Piscine-Recursion)
 
 ## Now, my IT Life starts!
+
+### 4. Mastery: (Will create corresponding links later)
+- Step 1: **Algo & AI & Data**:
+   - Data Visualization: [dslr - Datascience X Logistic Regression](https://github.com/TomTris/dslr)
+      - **Language**: **Python**
+   - Python for Data Science: [Piscine_Data_Science](https://github.com/TomTris/Piscine_Data_Science) (Haven't started yet)
+      - **Language**: **Python**
+- Step 2: **Web & Mobile** (Haven't started yet):
+   - All mobile's basic: [mobile](https://github.com/TomTris/Piscine_Mobile)
+      - **Languages**: **Flutter**(Dart)
+   - Mobile development and SDK: [ft_hangouts](https://github.com/TomTris/ft_hangouts)
+      - **Languages/Tool**: **SDK** + **??**
+   - Mobile development and API: [swifty-companion](https://github.com/TomTris/swifty-companion)
+      - **Languages**: **Java** (Flutter/Swift/Kotlin/Java)
+- Step 3: **Encryption and Security (Cryptography & Math)** (Haven't started yet):
+   - MD5 Hashing Algorithm: [ft_ssl_md5](https://github.com/TomTris/ft_ssl_md5)
+   - BASE64, DES-ECB and DES-CBC: [ft_ssl_des](https://github.com/TomTris/ft_ssl_des)
+   - prime number to private RSA keys: [ft_ssl_rsa](https://github.com/TomTris/ft_ssl_rsa)
+      - **Language**: **C**
+- **Else**: Afterwards!
