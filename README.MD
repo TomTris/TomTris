@@ -46,13 +46,13 @@ Feel free to reach out:
 - **[LinkedIn](https://www.linkedin.com/in/TomTris/)**
 
 ## 📂 Structure of My GitHub
-### 4. Mastery
-### 3.5. A **PingPong game** in a **Fullstack Web Application**: [ft_transcendence](https://github.com/TomTris/42-ft_transcendence)
-### 3.1: [Optional] Python Programming (5 Projects)
-### 3: Other Projects in Core curriculum (Docker, Networking, Virtual machine, Administration)
-### 2. C++ Programming (CPP00 -> CPP09 and Webserv)
-### 1. C Programming (Many projects)
-### 0. Piscine: 4 weeks entrance exam at 42 Heilbronn
+- 4. Mastery
+- 3.5. A **PingPong game** in a **Fullstack Web Application**: [ft_transcendence](https://github.com/TomTris/42-ft_transcendence)
+- 3.1: [Optional] Python Programming (5 Projects)
+- 3: Other Projects in Core curriculum (Docker, Networking, Virtual machine, Administration)
+- 2. C++ Programming (CPP00 -> CPP09 and Webserv)
+- 1. C Programming (Many projects)
+- 0. Piscine: 4 weeks entrance exam at 42 Heilbronn
 
 ### 4. Mastery:
 - Step 1: **Algo & AI & Data**:
