@@ -175,9 +175,9 @@ And following is a recursion project in our Piscine - A 4-week-entrance exam!
    - All mobile's basic: [mobile](https://github.com/TomTris/Piscine_Mobile)
       - **Languages**: **Flutter**(Dart)
    - Mobile development and SDK: [ft_hangouts](https://github.com/TomTris/ft_hangouts)
-      - **Languages/Tool**: **SDK** + **??**
+      - **Languages/Tool**: **SDK** + **Flutter**
    - Mobile development and API: [swifty-companion](https://github.com/TomTris/swifty-companion)
-      - **Languages**: **Java** (Flutter/Swift/Kotlin/Java)
+      - **Languages**: **Flutter**
 - Step 3: **Encryption and Security (Cryptography & Math)** (Haven't started yet):
    - MD5 Hashing Algorithm: [ft_ssl_md5](https://github.com/TomTris/ft_ssl_md5)
    - BASE64, DES-ECB and DES-CBC: [ft_ssl_des](https://github.com/TomTris/ft_ssl_des)
