@@ -34,10 +34,6 @@
 - **New Challenges** 💪
 - **Collaborative Opportunities** 🌍
 - **Continuous Learning** 📚
-- And:
-### 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
-### 🚀🚀 **AN INTERNSHIP** 🚀🚀🚀
-### 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
 
 ## 📫 Let's Connect
 
